@@ -15,10 +15,6 @@ h1 {
     font-size: 36px;
 }
 
-h2 {
-
-}
-
 #italic {
     font-size: 16px;
     line-height: 22px;
@@ -68,7 +64,6 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #f0f0f0;
     height: 50px; /* Ajuste a altura conforme necessário */
     margin-bottom: 48px;
 }
